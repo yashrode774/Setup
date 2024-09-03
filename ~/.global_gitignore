@@ -1,0 +1,9 @@
+*.swp
+*.rej
+\#*
+.#*
+*.patch
+*.diff
+.DS_Store
+*interdiff*.txt
+.idea
