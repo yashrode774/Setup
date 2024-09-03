@@ -1,0 +1,8 @@
+[user]
+	name = yashrode774
+	email = yashrode774@gmail.com
+[core]
+	excludesFile = /Users/yash.rode/.gitignore_global
+	autocrlf = input
+[init]
+	defaultBranch = main
